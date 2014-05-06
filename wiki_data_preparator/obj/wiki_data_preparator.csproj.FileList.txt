@@ -1,0 +1,11 @@
+bin\Debug\wiki_data_preparator.exe.config
+obj\Debug\wiki_data_preparator.exe
+obj\Debug\wiki_data_preparator.pdb
+bin\Debug\wiki_data_preparator.exe
+bin\Debug\wiki_data_preparator.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\wiki_data_preparator.categories_creator.resources
+obj\Debug\wiki_data_preparator.Form1.resources
+obj\Debug\wiki_data_preparator.Form2.resources
+obj\Debug\wiki_data_preparator.Properties.Resources.resources
+obj\Debug\wiki_data_preparator.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\bin\Debug\wiki_data_preparator.exe
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\bin\Debug\wiki_data_preparator.pdb
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\ResolveAssemblyReference.cache
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.Form1.resources
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.Properties.Resources.resources
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.csproj.GenerateResource.Cache
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.exe
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.pdb
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.Form2.resources
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\bin\Debug\wiki_data_preparator.exe.config
+C:\D\work\Goals\Academic\Master\SWProjects\MasterSW\profile_creation\wiki_data_preparator\wiki_data_preparator\wiki_data_preparator\obj\Debug\wiki_data_preparator.categories_creator.resources
